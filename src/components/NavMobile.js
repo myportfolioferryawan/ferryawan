@@ -58,7 +58,7 @@ const NavMobile = () => {
         variants={circleVariants}
         initial="hidden"
         animate={isOpen ? "visible" : "hidden "}
-        className="w-4 h-4 rounded-full bg-accent opacity-75 fixed top-0 right-0"
+        className="w-4 h-4 rounded-full bg-accent fixed top-0 right-0"
       ></motion.div>
       {/* Menu icont */}
       <motion.ul
