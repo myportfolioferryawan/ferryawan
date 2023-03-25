@@ -9,7 +9,6 @@ import {
   FiMail,
   FiMapPin,
   FiLinkedin,
-  FiUploadCloud,
 } from "react-icons/fi";
 
 // projects images
@@ -67,10 +66,6 @@ export const social = [
   {
     icon: <FiGithub />,
     href: "https://github.com/Ferryawan",
-  },
-  {
-    icon: <FiUploadCloud />,
-    href: "",
   },
 ];
 
