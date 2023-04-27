@@ -1,5 +1,4 @@
 import React from "react";
-
 // import components
 import Header from "./components/Header";
 import Nav from "./components/Nav";
@@ -11,6 +10,7 @@ import Services from "./components/Services";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import BackToTopBtn from "./components/BackToTopBtn";
+import { HashRouter, Route, Link } from "react-router-dom";
 
 const App = () => {
   return (
