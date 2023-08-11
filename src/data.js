@@ -60,8 +60,8 @@ export const social = [
     href: "https://www.linkedin.com/in/ferryawan-ardiansyah-09770a21a/",
   },
   {
-    icon: <FiInstagram />,
-    href: "https://www.instagram.com/fran.ferryawan/",
+    icon: <FiInstagram />, 
+    href: "https://www.instagram.com/fran.ferryawan/" ,
   },
   {
     icon: <FiGithub />,

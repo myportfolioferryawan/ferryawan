@@ -1,7 +1,7 @@
 import React from "react";
 
 // import woman image
-import ManImg from "../assets/img/foto-baru/img-Fer.png";
+import ManImg from "../assets/img/foto-baru/ferry1.png";
 
 const Hero = () => {
   return (
@@ -39,7 +39,7 @@ const Hero = () => {
           </div>
           {/* right side */}
           <div className="hidden lg:flex flex-1 justify-end items-end h-full ">
-            <img src={ManImg} className="h-[95%] w-[80%]" alt="image-ferry" />
+            <img src={ManImg} className="h-[95%] w-[95%]" alt="image-ferry" />
           </div>
         </div>
       </div>
