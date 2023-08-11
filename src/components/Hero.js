@@ -39,7 +39,7 @@ const Hero = () => {
           </div>
           {/* right side */}
           <div className="hidden lg:flex flex-1 justify-end items-end h-full ">
-            <img src={ManImg} className="h-[95%] w-[95%]" alt="image-ferry" />
+            <img src={ManImg} className="h-[95%] w-[90%]" alt="image-ferry" />
           </div>
         </div>
       </div>
