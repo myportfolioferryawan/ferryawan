@@ -67,7 +67,7 @@ const NavMobile = () => {
         animate={isOpen ? "visible" : ""}
         className={`${
           isOpen ? "right-0" : "-right-full"
-        } fixed top-0 bottom-0 w-full flex flex-col justify-center items-center transition-all duration-300 overflow-hidden`}
+        } fixed top-0 bottom-0 w-full h-full flex flex-col justify-center items-center transition-all duration-300 overflow-hidden`}
       >
         {/* class icon */}
         <div
