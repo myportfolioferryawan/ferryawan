@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ferryawan/static/css/main.d347d03c.css",
+    "main.js": "/ferryawan/static/js/main.d0f31f8e.js",
+    "static/media/pj2.png": "/ferryawan/static/media/pj2.7017672bbb37bd8c13a9.png",
+    "static/media/pj5.png": "/ferryawan/static/media/pj5.d959d3896937a5faf448.png",
+    "static/media/pj6.png": "/ferryawan/static/media/pj6.bddc66ad34f3fb545fee.png",
+    "static/media/pj3.png": "/ferryawan/static/media/pj3.26cd3d5bde13e1c9ed84.png",
+    "static/media/pj1.png": "/ferryawan/static/media/pj1.0c76422644538437cf92.png",
+    "static/media/pj4.png": "/ferryawan/static/media/pj4.d041b0481a4058bb372c.png",
+    "static/media/ferry.png": "/ferryawan/static/media/ferry.a2ce2b5213f85ca169d8.png",
+    "static/media/ferry1.png": "/ferryawan/static/media/ferry1.c4d5546c9d6c58938a88.png",
+    "static/media/bg-benarr.jpg": "/ferryawan/static/media/bg-benarr.6ab46462862decf17b21.jpg",
+    "static/media/services.svg": "/ferryawan/static/media/services.2d6c88f25842315ca095.svg",
+    "static/media/portfolio.svg": "/ferryawan/static/media/portfolio.2f31f4be113e35cc3442.svg",
+    "static/media/contact.svg": "/ferryawan/static/media/contact.ec60abf53c38c2593f7e.svg",
+    "static/media/about.svg": "/ferryawan/static/media/about.70a8290c961c47c208b5.svg",
+    "index.html": "/ferryawan/index.html",
+    "main.d347d03c.css.map": "/ferryawan/static/css/main.d347d03c.css.map",
+    "main.d0f31f8e.js.map": "/ferryawan/static/js/main.d0f31f8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d347d03c.css",
+    "static/js/main.d0f31f8e.js"
+  ]
+}
