@@ -18,13 +18,12 @@ const Hero = () => {
               <br /> I'm Ferryawan Ardiansyah 🙂
             </p>
             <h1 className="text-2xl leading-10 md:text-3xl md:leading-tight lg:text-4xl lg:leading-[1.2] font-bold md:tracking[-2px]">
-              Programming, Web Developer <br />
-              and Design web Interfaces.
+              Programmer <br />
+              and Software Engginering
             </h1>
             <p className="pt-4 pb-8 md:pt-6 md:pb-12 max-w-[480px] text-lg text-center lg:text-left ">
-              I am also a front-end developer and with a keen interest in
-              creating attractive UI/UX, bringing products to life to make them
-              look much more attractive
+            Highly motivated student with a specialization in Software Engineering and Web Programming using Scrum. Experienced in back-end development, I am proficient in Javascript, PHP, MySQL, Laravel, Java, Git version control, Dart, and Flutter.
+            My expertise extends to creating robust and scalable solutions for web applications.
             </p>
             <button className="btn btn-md bg-accent hover:bg-accent-hover md:btn-lg transition-all rounded-md ">
               {" "}
