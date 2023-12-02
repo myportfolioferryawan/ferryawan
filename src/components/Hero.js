@@ -18,19 +18,19 @@ const Hero = () => {
               <br /> I'm Ferryawan Ardiansyah 🙂
             </p>
             <h1 className="text-2xl leading-10 md:text-3xl md:leading-tight lg:text-4xl lg:leading-[1.2] font-bold md:tracking[-2px]">
-              Programming, Web Developer <br />
-              and Design web Interfaces.
+              Programming<br />
+              & Software Engineering
             </h1>
             <p className="pt-4 pb-8 md:pt-6 md:pb-12 max-w-[480px] text-lg text-center lg:text-left ">
-              I am also a front-end developer and with a keen interest in
-              creating attractive UI/UX, bringing products to life to make them
-              look much more attractive
+            Highly motivated student with a specialization in Software Engineering and Web Programming using 
+            Scrum. Experienced in back-end development, I am proficient in Javascript, PHP, MySQL, Laravel, Java, Git 
+            version control, Dart, and Flutter.
             </p>
             <button className="btn btn-md bg-accent hover:bg-accent-hover md:btn-lg transition-all rounded-md ">
               {" "}
               <a
-                href="https://drive.google.com/file/d/1SZdEMUXROllee8qExuiG5UYROjWeWCFO/view?usp=sharing"
-                download="https://drive.google.com/file/d/1SZdEMUXROllee8qExuiG5UYROjWeWCFO/view?usp=sharing"
+                href="https://drive.google.com/file/d/1aFykH1pRHqC1F2ExM4d4PGrg2pW2SejH/view?usp=sharing"
+                download="https://drive.google.com/file/d/1aFykH1pRHqC1F2ExM4d4PGrg2pW2SejH/view?usp=sharing"
                 target="_blank"
               >
                 My Curriculum vitae
@@ -39,7 +39,7 @@ const Hero = () => {
           </div>
           {/* right side */}
           <div className="hidden lg:flex flex-1 justify-end items-end h-full ">
-            <img src={ManImg} className="h-[100%] w-[95%]" alt="image-ferry" />
+            <img src={ManImg} className="h-[95%] w-[93%]" alt="image-ferry" />
           </div>
         </div>
       </div>

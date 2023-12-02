@@ -20,10 +20,14 @@ const About = () => {
               <p className="mb-4 text-accent"> Freelance Web Develover</p>
               <hr className="mb-4 opacity-100" />
               <p className="mb-8">
-                Confident, passionate and creative Graphic Designer and Data
-                Analyst Programmer with extensive experience working with print{" "}
+              My expertise extends to creating robust and scalable solutions for web applications.{" "}
                 <br />
-                and digital media as well as being a top value Student.
+                I am a diligent and fast learner who thrives on challenges, demonstrating a strong work ethic in all 
+                endeavors.
+                In addition to my proficiency in traditional web development technologies, I have a keen 
+                understanding of Dart and Flutter for building cross-platform mobile applications. This knowledge 
+                enables me to create dynamic and responsive user interfaces, enhancing the overall user experience.
+                Able to work both in teams and individual.
               </p>
             </div>
             <button className="btn btn-md bg-accent hover:bg-accent-hover rounded-md">
