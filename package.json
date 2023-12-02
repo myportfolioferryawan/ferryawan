@@ -1,8 +1,8 @@
 {
+  "homepage": "/https://myportfolioferryawan.github.io/ferryawan",
   "name": "ferryawan",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://myportfolioferryawan.github.io/ferryawan",
   "dependencies": {
     "@formspree/react": "^2.4.1",
     "@testing-library/jest-dom": "^5.16.2",
@@ -16,7 +16,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build -b main",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
