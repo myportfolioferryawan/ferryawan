@@ -1,9 +1,0 @@
-{
-    "forms": {
-      "xkneaojo": {
-        "name": "Sign-up Form",
-        "actions": [{ "type": "email", "to": "ferry908ardiansyah@gmail.com" }],
-        "fields": {"email": {"required": "true", "type": "email"}}
-      }
-    }
-  }
