@@ -29,8 +29,8 @@ const Hero = () => {
             <button className="btn btn-md bg-accent hover:bg-accent-hover md:btn-lg transition-all rounded-md ">
               {" "}
               <a
-                href="https://drive.google.com/file/d/1aFykH1pRHqC1F2ExM4d4PGrg2pW2SejH/view?usp=sharing"
-                download="https://drive.google.com/file/d/1aFykH1pRHqC1F2ExM4d4PGrg2pW2SejH/view?usp=sharing"
+                href="https://drive.google.com/file/d/1YRpQCU0Rplu-5qyvOem0__Id0SsBzvri/view?usp=sharing"
+                download="https://drive.google.com/file/d/1YRpQCU0Rplu-5qyvOem0__Id0SsBzvri/view?usp=sharing"
                 target="_blank"
               >
                 My Curriculum vitae
