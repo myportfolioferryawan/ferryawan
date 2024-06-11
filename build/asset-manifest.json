@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/https://myportfolioferryawan.github.io/ferryawan/static/css/main.a6d8e02d.css",
-    "main.js": "/https://myportfolioferryawan.github.io/ferryawan/static/js/main.a0dc2a95.js",
+    "main.css": "/https://myportfolioferryawan.github.io/ferryawan/static/css/main.81192655.css",
+    "main.js": "/https://myportfolioferryawan.github.io/ferryawan/static/js/main.9109cebb.js",
     "static/media/pj2.png": "/https://myportfolioferryawan.github.io/ferryawan/static/media/pj2.7753c0278e3d37c55c7e.png",
     "static/media/pj5.png": "/https://myportfolioferryawan.github.io/ferryawan/static/media/pj5.85b82a0b677df19fb778.png",
     "static/media/pj6.png": "/https://myportfolioferryawan.github.io/ferryawan/static/media/pj6.e62e917aef8b12a20300.png",
@@ -16,11 +16,11 @@
     "static/media/contact.svg": "/https://myportfolioferryawan.github.io/ferryawan/static/media/contact.ec60abf53c38c2593f7e.svg",
     "static/media/about.svg": "/https://myportfolioferryawan.github.io/ferryawan/static/media/about.70a8290c961c47c208b5.svg",
     "index.html": "/https://myportfolioferryawan.github.io/ferryawan/index.html",
-    "main.a6d8e02d.css.map": "/https://myportfolioferryawan.github.io/ferryawan/static/css/main.a6d8e02d.css.map",
-    "main.a0dc2a95.js.map": "/https://myportfolioferryawan.github.io/ferryawan/static/js/main.a0dc2a95.js.map"
+    "main.81192655.css.map": "/https://myportfolioferryawan.github.io/ferryawan/static/css/main.81192655.css.map",
+    "main.9109cebb.js.map": "/https://myportfolioferryawan.github.io/ferryawan/static/js/main.9109cebb.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6d8e02d.css",
-    "static/js/main.a0dc2a95.js"
+    "static/css/main.81192655.css",
+    "static/js/main.9109cebb.js"
   ]
 }
