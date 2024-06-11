@@ -1,6 +1,9 @@
 {
   "files": {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> c2d36fe75181646b1ee8755175f56a93f4b5b65a
     "main.css": "/ferryawan/static/css/main.00161f62.css",
     "main.js": "/ferryawan/static/js/main.3c89b670.js",
     "static/media/pj2.png": "/ferryawan/static/media/pj2.7017672bbb37bd8c13a9.png",
@@ -23,6 +26,7 @@
   "entrypoints": [
     "static/css/main.00161f62.css",
     "static/js/main.3c89b670.js"
+<<<<<<< HEAD
 =======
     "main.css": "/https://myportfolioferryawan.github.io/ferryawan/static/css/main.30c14ef9.css",
     "main.js": "/https://myportfolioferryawan.github.io/ferryawan/static/js/main.ac6489c7.js",
@@ -47,5 +51,7 @@
     "static/css/main.30c14ef9.css",
     "static/js/main.ac6489c7.js"
 >>>>>>> origin/main
+=======
+>>>>>>> c2d36fe75181646b1ee8755175f56a93f4b5b65a
   ]
 }
