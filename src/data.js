@@ -61,7 +61,7 @@ export const social = [
   },
   {
     icon: <FiInstagram />, 
-    href: "https://www.instagram.com/fran.ferryawan/" ,
+    href: "https://www.instagram.com/ferryawan_dev/" ,
   },
   {
     icon: <FiGithub />,
@@ -81,7 +81,7 @@ export const projectsData = [
     id: "2",
     image: Project2,
     name: "E-commerce",
-    category: "web development",
+    category: "Unite Test",
   },
   {
     id: "3",
@@ -93,7 +93,7 @@ export const projectsData = [
     id: "4",
     image: Project4,
     name: "Project Testimonials",
-    category: "UI/UX design",
+    category: "Databases design",
   },
   {
     id: "5",
